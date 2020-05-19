@@ -1,2 +1,6 @@
-# csv-sample
-Task 2 for Acronis
+csv-sample
+==========
+
+Задание 2 из предложенных для решения при поступлении на кафедру ТиПИ (Acronis).
+
+Задание выполнено с использованием jupyter-notebook ( `notebook.ipynb` ) и сохранено в формате `pdf` ( `notebook.pdf` )
